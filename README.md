@@ -4,7 +4,7 @@ Hello, I'm Roshan Kumar Sharma, a passionate frontend developer with a keen inte
 ### 🚀 About Me
 - 🌐 I specialize in technologies such as React, Next.js, Vue.js, and Tailwind CSS to build responsive and dynamic web applications.
 - 💡 Always curious to explore new technologies, I've also delved into backend development, with aspirations to become a full-stack developer.
-- 🎓 Currently expanding my skill set to include languages like Python, C++, and Java to enhance my problem-solving capabilities.
+- 🎓 Currently expanding my skill set to include languages like C++, and Java to enhance my problem-solving capabilities.
 
 ### 🛠️ Tech Stack
 - Frontend: React, Next.js, Vue.js, Angular.js
