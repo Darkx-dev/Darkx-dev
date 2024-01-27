@@ -10,6 +10,7 @@ Hello, I'm Roshan Kumar Sharma, a passionate frontend developer with a keen inte
 - Frontend: React, Next.js, Vue.js, Angular.js
 - Styling: HTML, CSS, Tailwind CSS
 - Languages: JavaScript, Python, C++, Java
+- Animation Frameworks: GSAP (GreenSock Animation Platform), Shery JS, Locomotive, Leni
 
 ### 🌱 Learning Journey
 - Constantly pushing my boundaries to stay at the forefront of the ever-evolving tech landscape.
