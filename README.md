@@ -18,9 +18,9 @@ Hello, I'm Roshan Kumar Sharma, a passionate frontend developer with a keen inte
 
 ### 🚧 Projects
 - 🚀 Check out my pinned repositories for a glimpse of my latest projects and contributions.
-- 🌟 [Project 1]
-- 🌟 [Project 2]
-- 🌟 [Project 3]
+- 🌟 [[Portfolio Frontend (HTML + Tailwind + Vanilla JS)](https://github.com/Darkx-dev/darkx-portfolio-vanilla)]
+- 🌟 [[Age Calculator](https://github.com/Darkx-dev/age-calculator)]
+- 🌟 [[Bill Splitter (NextJS + Tailwind + Typescript)](https://github.com/Darkx-dev/bill-splitter-app)]
 
 ### 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roshan-kumar-981207272/)
