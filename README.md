@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br>I'm Roshan, a passionate frontend developer from india, currently expanding my tech stack in backend</h2>
+<h2 align="left">Hi 👋!<br>I'm Roshan, a passionate full stack developer from india, currently expanding my tech stack in backend</h2>
 
 ###
 
